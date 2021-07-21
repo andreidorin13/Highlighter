@@ -1,0 +1,17 @@
+{
+  "pollinterval": 1000,
+  "obs": {
+    "path": "C:\\Program Files\\obs-studio\\bin\\64bit\\obs64.exe",
+    "uri": "ws://localhost:4444",
+    "password": "",
+    "recordDir": "D:\\Recordings\\Obs\\Test",
+    "displayWindow": false,
+    "sourceName": "Game"
+  },
+  "games": [
+    {
+      "Name": "Hearthstone",
+      "Exe": "Hearthstone"
+    }
+  ]
+}
